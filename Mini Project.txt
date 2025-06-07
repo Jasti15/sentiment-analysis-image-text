@@ -1,0 +1,38 @@
+1. Title 
+
+Sentiment Analysis on Images and Text
+
+
+2. About the project (150 words)
+
+Sentiment analysis on images and text goes beyond just analyzing reviews or captions. It combines the power of image recognition and text understanding to get a more complete picture of the emotions behind content.
+Why it's useful: Imagine social media analysis. A post might have a happy caption but show a frowning person. This method can capture the conflicting sentiment.
+ New techniques are emerging all the time, making sentiment analysis more nuanced and accurate.
+
+3. Objectives
+
+Here's the sentiment analysis of image and text methodology in simplified points:
+
+Two Main Approaches:
+
+Analyze image and text separately (text sentiment analysis + image recognition), then combine results.
+Use deep learning models designed for both text and image data simultaneously.
+Data is Key: Need a dataset of images, text, and sentiment labels (positive, negative, neutral) to train the analysis.
+
+Choosing Your Method:
+
+Simpler: Separate analysis with fusion (easier to implement).
+More Powerful: Multimodal deep learning (better accuracy, but requires more expertise).
+The Field is Growing: New techniques and models are constantly being developed.
+
+Consider Your Needs: Choose a method based on your project complexity and resources.
+
+4. Methodology(diagram)
+
+
+
+5. Conclusion
+
+Sentiment analysis of images and text unlocks a powerful tool for understanding the emotional undercurrents of online content. By combining image recognition and text analysis, 
+it goes beyond surface-level sentiment and captures the true feeling behind a post. This offers valuable insights in various fields, from social media monitoring to customer reviews. 
+While the field is still evolving, with new techniques constantly emerging, sentiment analysis of images and text holds immense potential for a more nuanced understanding of online communication.
